@@ -1,0 +1,5 @@
+.sass-cache
+.bundle
+/tmp
+Gemfile.lock
+development.db
